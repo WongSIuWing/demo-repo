@@ -8,3 +8,5 @@ Here is some new text type locally
 This is the remote new branch stuff 
 
 ## The conflict
+
+## Main branch message 
